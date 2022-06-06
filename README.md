@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Justin, or Snacks informally on the web.
 - 👀 I’m interested in web development, gaming, character design, and jumping spiders.
-- 🌱 I’m currently focused on website design alongside minimalist code optimization.
+- 🌱 I’m currently learning all things frontEnd to land my first dev job.
 - 💞️ I’m looking to collaborate on anything I'm capable honestly.
 - 📫 How to reach me: 
     - Best Way: 
