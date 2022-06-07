@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Justin, or Snacks informally on the web.
-- 👀 My main interests are coding, gaming, character design, and invertebrates (mostly Jumping Spiders).
+- 👀 My main interests are coding, gaming, character design, and invertebrates (mostly jumping spiders).
 - 🌱 Learning all things needed to land my first frontEnd job.
 - 💞️ I’m looking to collaborate on almost anything.
 - 📫 How to reach me: 
