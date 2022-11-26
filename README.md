@@ -1,11 +1,8 @@
-- 👋 Hi, I’m Justin, or Snacks informally on the web.
-- 👀 My main interests are coding, gaming, character design, and exotic pets (spiders/lizards)
-- 🌱 Learning all things needed to land my first frontEnd job.
-- 💞️ I’m open to collaborate on almost anything.
+- 👋 Hi, I’m Justin, But I go by Wayne
+- 👀 My main interests are coding and self improvement
+- 🌱 Learning all things needed to be an outstanding React Developer
 - 📫 How to reach me: 
-    - Best Way: 
         Discord: snacks#6517 
-    - Others
         Text: 919-753-3942 
         Email: Justin426533@gmail.com
 
