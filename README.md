@@ -1,10 +1,12 @@
 👋 Hi, I’m Justin, Aspiring React Developer
+
+  Email: Justin426533@gmail.com 
+  
+  Text: 919-753-3942 
         
   Discord: snacks#6517
   
-  Text: 919-753-3942 
   
-  Email: Justin426533@gmail.com 
 
 <!---
 justingravely/justingravely is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
