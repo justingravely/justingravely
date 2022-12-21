@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Justin
-- 👀 Aspiring Front Ender
-- 🌱 Learning all things needed to be an outstanding React Developer
-- 📫 How to reach me: 
+- 👋 Hi, I’m Justin, Aspiring React Developer
         
   Discord: snacks#6517
   
