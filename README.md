@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Justin, Aspiring React Developer
+👋 Hi, I’m Justin, Aspiring React Developer
         
   Discord: snacks#6517
   
