@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Justin, But I go by Wayne
-- 👀 My main interests are coding and self improvement
+- 👋 Hi, I’m Justin
+- 👀 Aspiring Front Ender
 - 🌱 Learning all things needed to be an outstanding React Developer
 - 📫 How to reach me: 
         Discord: snacks#6517 
